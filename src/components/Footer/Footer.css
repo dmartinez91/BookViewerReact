@@ -1,9 +1,9 @@
 .Footer{
     margin-top: 1rem;
     padding: 1rem;
+    box-shadow: 0 50vh 0 50vh lightblue;
     background-color: rgb(235, 195, 64);
     position: fixed;
-    bottom: 0;
-    left: 0;
+    text-align: center;
     width: 100%;
 }
